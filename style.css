@@ -94,12 +94,12 @@ body {
 }
 
 .our-team .social li {
-  display: inline-block;
+  display: block;
 }
 
 .our-team .social li a {
   display: block;
-  padding: 10px;
+  padding: 15px;
   font-size: 17px;
   color: white;
   transition: all 0.3s ease 0s;
@@ -108,7 +108,7 @@ body {
 
 .our-team .social li a:hover {
   color: #1369ce;
-  background-color: #f7f5ec;
+  background-color: #afc8ff;
 }
 .class-title{
   margin-bottom: 30px;
